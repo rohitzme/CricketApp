@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.cricketapp-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.cricketapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-mergeDebugResources-3:/layout/activity_match_detail.xml",
+        "source": "com.example.cricketapp-main-6:/layout/activity_match_detail.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-mergeDebugResources-3:/layout/item_bowler.xml",
+        "source": "com.example.cricketapp-main-6:/layout/item_bowler.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-mergeDebugResources-3:/layout/item_batsman.xml",
+        "source": "com.example.cricketapp-main-6:/layout/item_batsman.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-mergeDebugResources-3:/layout/fragment_match_list.xml",
+        "source": "com.example.cricketapp-main-6:/layout/fragment_match_list.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-mergeDebugResources-3:/layout/item_match_card.xml",
+        "source": "com.example.cricketapp-main-6:/layout/item_match_card.xml"
+    }
+]

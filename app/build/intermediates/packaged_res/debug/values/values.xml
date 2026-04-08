@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_gold">#FFD700</color>
+    <color name="black">#000000</color>
+    <color name="grey_dark">#121212</color>
+    <color name="grey_light">#A0A0A0</color>
+    <color name="grey_medium">#1E1E1E</color>
+    <color name="grey_soft">#2C2C2C</color>
+    <color name="live_red">#FF3B30</color>
+    <color name="rain_blue">#4B9BFF</color>
+    <color name="status_result">#007AFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Cricket Detail Center</string>
+    <string name="error_loading">Something went wrong. Please check your connection.</string>
+    <string name="insights">Insights</string>
+    <string name="live_matches">Live Matches</string>
+    <string name="loading">Loading details...</string>
+    <string name="match_details">Match Details</string>
+    <string name="recent_matches">Recent Matches</string>
+    <string name="retry">Retry</string>
+    <string name="scorecard">Scorecard</string>
+    <string name="upcoming_matches">Upcoming Matches</string>
+    <string name="win_probability">Win Probability</string>
+    <style name="Theme.CricketApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="android:windowBackground">@color/black</item>
+        <item name="colorSurface">@color/grey_dark</item>
+        <item name="colorOnSurface">@color/white</item>
+        
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/grey_light</item>
+    </style>
+</resources>

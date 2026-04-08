@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simplified Cricket Ball and Bat vector in white for a premium minimal feel. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20c18.78,0,34,15.22,34,34s-15.22,34-34,34s-34-15.22-34-34S35.22,20,54,20z M54,24 c-16.57,0-30,13.43-30,30s13.43,30,30,30s30-13.43,30-30S70.57,24,54,24z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,32h12v44h-12z" />
+</vector>

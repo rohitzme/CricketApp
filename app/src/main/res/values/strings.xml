@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cricket Detail Center</string>
+    <string name="live_matches">Live Matches</string>
+    <string name="recent_matches">Recent Matches</string>
+    <string name="upcoming_matches">Upcoming Matches</string>
+    <string name="match_details">Match Details</string>
+    <string name="win_probability">Win Probability</string>
+    <string name="insights">Insights</string>
+    <string name="scorecard">Scorecard</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading details...</string>
+    <string name="error_loading">Something went wrong. Please check your connection.</string>
+</resources>

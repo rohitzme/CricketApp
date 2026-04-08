@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cricketapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/layout_item_bowler.xml.flat",
+        "source": "com.example.cricketapp-main-6:/layout/item_bowler.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cricketapp-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/layout_item_match_card.xml.flat",
+        "source": "com.example.cricketapp-main-6:/layout/item_match_card.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.cricketapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cricketapp-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/layout_activity_match_detail.xml.flat",
+        "source": "com.example.cricketapp-main-6:/layout/activity_match_detail.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cricketapp-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/layout_item_batsman.xml.flat",
+        "source": "com.example.cricketapp-main-6:/layout/item_batsman.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/layout_fragment_match_list.xml.flat",
+        "source": "com.example.cricketapp-main-6:/layout/fragment_match_list.xml"
+    },
+    {
+        "merged": "com.example.cricketapp-merged_res-4:/drawable_live_dot_circle.xml.flat",
+        "source": "com.example.cricketapp-main-6:/drawable/live_dot_circle.xml"
+    }
+]
