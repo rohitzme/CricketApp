@@ -1,0 +1,8 @@
+"# Cricket App ??" 
+"Real-time cricket app using CricAPI" 
+"" 
+"## Features" 
+"- Live Matches" 
+"- Recent Matches with Results" 
+"- Player of the Match" 
+"- Scorecard Details" 
